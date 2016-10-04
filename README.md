@@ -4,8 +4,8 @@
 ## Config
 | Option | Description |
 | --- | --- |
-| delay | Value in seconds. Default 1000 |
-| prefix | Class prefix. Default lazy_ |
+| **delay** | Value in seconds. *Default 1000* |
+| **prefix** | Class prefix. *Default lazy_* |
 
 Basic use:
 ~~~javascript
