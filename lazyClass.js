@@ -2,8 +2,10 @@
     /**
      * LazyClass
      * addClass to a collection with delay on each element
-     * @author Juan Caser
+     * @author Nopo Web Solutions
      * @version 1.0
+     *
+     * https://github.com/NopoWeb/lazyClass
      */
     $.fn.lazyClass = function(options,callback){
         var settings = $.extend({
