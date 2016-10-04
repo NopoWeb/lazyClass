@@ -1,7 +1,8 @@
 # lazyClass.css
 *For lazy people*
 
-## Config| Option | Description |
+## Config
+| Option | Description |
 | --- | --- |
 | delay | Value in seconds. Default 1000 |
 | prefix | Class prefix. Default lazy_ |
