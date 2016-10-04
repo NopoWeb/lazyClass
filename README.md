@@ -2,10 +2,10 @@
 Add class to element collection with delay
 
 Options
-| Options  | Default | Description |
-| ------------- | -------------|| ------------- |
-| delay  | 1000  | Value in seconds  |
-| prefix  | lazy_ | Class prefix |
+| Options       | Default       | Description   |
+| ------------- | ------------- | ------------- |
+| delay         | 1000          | Value in seconds  |
+| prefix        | lazy_         | Class prefix |
 
 Basic use:
 $('.im-too-lazy').lazyClass();
